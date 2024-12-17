@@ -7,7 +7,7 @@ https://developer.sophgo.com/thread/471.html<br>
 https://tpumlir.org/en/docs/quick_start/03_onnx.html<br>
 https://milkv.io/ja/docs/duo/application-development/tpu/tpu-yolov5<br>
 https://qiita.com/tags/milk-v<br>
-秋月:https://akizukidenshi.com/catalog/g/g118375/
+秋月:https://akizukidenshi.com/catalog/g/g118375/<br>
 Milk-V Duo 256MでUbuntuを使ってみる:http://nopnop2002.starfree.jp/Milk-V-Duo/MilkV-duo-256-1.html<br>
 ## SG2002
 
